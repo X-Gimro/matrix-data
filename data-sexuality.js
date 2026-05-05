@@ -1,4 +1,3 @@
-/* data-sexuality.js — Сексуальность (П2) */
 
 window.SEXUALITY = {
 
